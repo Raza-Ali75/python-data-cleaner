@@ -17,7 +17,7 @@ The tool reads a raw CSV file, validates data quality, logs errors, and exports 
 - Exports only valid and cleaned records to a new CSV file
 
 ---
-
+'''
 ##  Project Structure
 python-data-cleaner/
 │
@@ -32,6 +32,7 @@ python-data-cleaner/
 │
 ├── clean_sales.csv # Output cleaned data
 └── error_log.txt # Error log file
+'''
 ---
 
 ## ▶ How to Use
