@@ -1,0 +1,3 @@
+2026-01-16 11:23:25,074 - ERROR - {'order_id': '102', 'customer': '', 'amount': '700', 'date': '2024-01-02'} \u2192 Missing value found
+2026-01-16 11:23:25,074 - ERROR - {'order_id': '103', 'customer': 'Sara', 'amount': 'abc', 'date': '2024-01-03'} \u2192 Amount must be a number
+2026-01-16 11:23:25,074 - ERROR - {'order_id': '104', 'customer': 'John', 'amount': '900', 'date': ''} \u2192 Missing value found
