@@ -22,7 +22,7 @@ The tool reads a raw CSV file, validates data quality, logs errors, and exports 
 python-data-cleaner/
 │
 ├── data/
-│ └── raw_sales.csv # Input raw data file
+│ └── raw_sale.csv # Input raw data file
 │
 ├── cleaner.py # Data cleaning logic
 ├── validator.py # Data validation rules
