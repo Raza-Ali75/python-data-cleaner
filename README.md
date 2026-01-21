@@ -18,7 +18,7 @@ The tool reads a raw CSV file, validates data quality, logs errors, and exports 
 
 ---
 ##  Project Structure
-'''
+```
 python-data-cleaner/
 │
 ├── data/
@@ -32,10 +32,10 @@ python-data-cleaner/
 │
 ├── clean_sales.csv # Output cleaned data
 └── error_log.txt # Error log file
-'''
+```
 ---
 
-## ▶ How to Use
+## How to Use
 
 ### Step 1: Add your CSV file
 Place your CSV file inside the `data/` folder and rename it to:
